@@ -1,0 +1,1 @@
+This file is to show the commands on how we installed notepad++ and configured notepad++ to work seamlessly on Git Bash
